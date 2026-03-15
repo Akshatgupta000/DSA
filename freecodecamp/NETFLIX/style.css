@@ -1,0 +1,22 @@
+#navbar{
+    padding: 8px;
+    height: 32px;
+}
+#logo{
+    height: 30px;
+}
+h1{
+    text-align: center; color: red;
+}
+#about{
+    display: flex;
+}
+#description{
+    width: 50%;
+}
+#team{
+    width: 50%;
+}
+#team-image{
+    border-radius: 5px;
+}

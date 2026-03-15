@@ -1,0 +1,87 @@
+Course Content
+
+1: Web Development
+
+● Basic of Internet
+
+● HTML
+
+● CSS
+
+● JAVASCRIPT
+
+● React JS
+
+● TypeScript
+
+● NEXT JS
+
+● NODE JS
+
+● Express JS
+
+● MONGODB and Mongoose
+
+● Authentication and Authorization
+
+● WebSockets and WebRTC
+
+● API
+
+● Advance Projects with Deployment
+
+ 
+
+2: BlockChain
+
+● Blockchain Introduction
+
+● Cryptographic Foundations
+
+● Blockchain Internal Working
+
+● Ethereum and it’s Ecosystem
+
+● Solana client side apps
+
+● Smart Contracts
+
+● Solidity from Basic to Advance
+
+● Rust Basic to Advance
+
+● Advance Projects with Deployment
+
+3: Data Structure and Algorithm
+
+What is coding
+FlowChart
+Time & Space Complexity
+Variables & DataTypes in C++
+Operators, Conditionals & Loops Array,
+Searching Algorithms
+Sorting Algorithms
+Concepts Dynamic Arrays
+String
+Basic Maths & Pointers
+Standard Template Library
+Function & in-depth Knowledge of flow
+Recursion & Backtracking   
+Object Oriented Programming
+Linked List
+Stack & Queues
+Sliding Window Problems
+Bit Manipulation     
+Trees
+Heaps
+Divide & Conquer Technique
+Graphs
+Greedy Algorithms
+Dynamic Programming
+Hashing & Tries
+
+DSA includes: Beginner friendly (No Pre-requisite Required)
+
+150+ hours Recorded Videos
+300+ Coding Questions (asked by Top Companies)
+Completion Certificate

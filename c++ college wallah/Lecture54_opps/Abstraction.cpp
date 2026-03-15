@@ -1,0 +1,4 @@
+// ABSTRACTION
+// ->enables us to display only essential information while hiding implementation details.
+
+// e.g   pow(x,y)-->>x^y.

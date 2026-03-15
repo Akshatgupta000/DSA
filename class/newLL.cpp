@@ -1,0 +1,33 @@
+#include<iostream>
+using namespace std;
+
+class Node{
+    public:
+    int data;
+    Node* next;
+
+    public:
+    Node(int data1, Node* next1){
+        data=data1;
+        next=next1;
+    }
+
+    public:
+    Node(int data1){
+        data=data1;
+        next=NULL;
+    }
+};
+
+void print(Node* head){
+    while(head!=NULL){
+        cout<<head->data<<" ";
+        head=head->next;
+    }
+    cout<<endl;
+}
+
+int main(){
+    Node* head=createNode(10);
+    return 0;
+}
